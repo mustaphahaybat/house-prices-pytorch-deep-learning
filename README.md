@@ -234,8 +234,8 @@ This project fulfills the Week 3 Deep Learning assignment:
 
 **Mustafa Haybat**
 
-- LinkedIn: [linkedin.com/in/mustafa-haybat](https://linkedin.com/in/mustafa-haybat)
-- GitHub: [@mustafa-haybat](https://github.com/mustafa-haybat)
+- LinkedIn: linkedin.com/in/mustafa-haybat](https://linkedin.com/in/mustafa-haybat)](https://www.linkedin.com/in/mustafa-haybat-gozgoz35/)
+- GitHub:[@mustafa-haybat](https://github.com/mustaphaaybat)
 
 ---
 
